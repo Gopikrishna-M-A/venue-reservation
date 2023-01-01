@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.landingpage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+.l-main-section{
+    margin: auto;
+
+}
+.l-main-section .signupbtn{
+    font-size: 30px;
+    width:600px ;
+    margin-top: 20px;
+    padding: 50px;
+}
